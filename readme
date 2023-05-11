@@ -1,0 +1,12 @@
+This repository focuses on Natural Language Processing (NLP) and the utilization of transformers, which serve as the foundation for some of the most influential 
+natural language models available today. It will include pre-trained models sourced from Hugging Face as well as custom models developed from scratch using PyTorch.
+
+The Hugging Face Transformers library provides state-of-the-art pre-trained models for NLP tasks, such as BERT, GPT, GPT-2, Transformer-XL, XLNet, XLM, 
+and RoBERTa. These models can be directly used or fine-tuned for specific tasks, significantly reducing the time and resources required for training 
+a model from scratch.
+
+To use a pre-trained model from Hugging Face, the from_pretrained method is utilized. This method supports various options, such as specifying cache directories, 
+forcing downloads, using authentication tokens, and selecting specific model versions.
+
+this repository will explore NLP tasks using transformers as the backbone. It will leverage both pre-trained models from the Hugging Face library and custom models built 
+with PyTorch, providing a comprehensive and flexible approach to tackling various NLP problems.
