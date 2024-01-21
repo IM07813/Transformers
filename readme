@@ -9,4 +9,4 @@ To use a pre-trained model from Hugging Face, the from_pretrained method is util
 forcing downloads, using authentication tokens, and selecting specific model versions.
 
 this repository will explore NLP tasks using transformers as the backbone. It will leverage both pre-trained models from the Hugging Face library and custom models built 
-with PyTorch, providing a comprehensive and flexible approach to tackling various NLP problems.
+with PyTorch, providing a comprehensive and flexible approach to tackling various NLP problems..
