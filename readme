@@ -5,8 +5,7 @@ The Hugging Face Transformers library provides state-of-the-art pre-trained mode
 and RoBERTa. These models can be directly used or fine-tuned for specific tasks, significantly reducing the time and resources required for training 
 a model from scratch.
 
-To use a pre-trained model from Hugging Face, the from_pretrained method is utilized. This method supports various options, such as specifying cache directories, 
-forcing downloads, using authentication tokens, and selecting specific model versions.
+To use a pre-trained model from Hugging Face, the from_pretrained method is utilized. This method supports various options
 
-this repository will explore NLP tasks using transformers as the backbone. It will leverage both pre-trained models from the Hugging Face library and custom models built 
-with PyTorch, providing a comprehensive and flexible approach to tackling various NLP problems..
+this repository will explore NLP tasks using transformers as the backbone. It will leverage both pre-trained models from the Hugging Face library and custom models built with 
+different frameworks, providing a comprehensive and flexible approach to tackling various NLP problems..
